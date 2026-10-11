@@ -1,0 +1,196 @@
+iso3,country,gdp_obs,le_obs,mys_obs,eys_obs,hdi_obs,ihdi_obs,phdi_obs,gini_obs,set_a_all,set_a_any,set_b_all,set_b_any,set_c_all,set_c_any,set_d_all,set_d_any,set_e_all,set_e_any
+AFG,Afghanistan,14,14,14,14,14,14,14,0,True,True,True,True,True,True,True,True,False,False
+AGO,Angola,14,14,14,14,14,9,14,1,True,True,True,True,False,True,True,True,False,False
+ALB,Albania,14,14,14,14,14,14,14,8,True,True,True,True,True,True,True,True,True,True
+AND,Andorra,14,14,14,14,14,8,0,0,True,True,True,True,False,True,False,False,False,False
+ARE,United Arab Emirates,14,14,14,14,14,8,14,2,True,True,True,True,False,True,True,True,False,False
+ARG,Argentina,14,14,14,14,14,14,14,13,True,True,True,True,True,True,True,True,True,True
+ARM,Armenia,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+ATG,Antigua and Barbuda,14,14,14,14,14,0,0,0,True,True,True,True,False,False,False,False,False,False
+AUS,Australia,14,14,14,14,14,14,14,5,True,True,True,True,True,True,True,True,True,True
+AUT,Austria,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+AZE,Azerbaijan,14,14,14,14,14,14,14,0,True,True,True,True,True,True,True,True,False,False
+BDI,Burundi,14,14,14,14,14,13,14,2,True,True,True,True,False,True,True,True,False,False
+BEL,Belgium,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+BEN,Benin,14,14,14,14,14,5,14,4,True,True,True,True,False,True,True,True,True,True
+BFA,Burkina Faso,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+BGD,Bangladesh,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+BGR,Bulgaria,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+BHR,Bahrain,14,14,14,14,14,0,14,0,True,True,True,True,False,False,True,True,False,False
+BHS,Bahamas,14,14,14,14,14,11,14,0,True,True,True,True,False,True,True,True,False,False
+BIH,Bosnia and Herzegovina,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+BLR,Belarus,14,14,14,14,14,12,0,11,True,True,True,True,False,True,False,False,True,True
+BLZ,Belize,14,14,14,14,14,0,14,1,True,True,True,True,False,False,True,True,False,False
+BOL,Bolivia (Plurinational State of),14,14,14,14,14,14,14,13,True,True,True,True,True,True,True,True,True,True
+BRA,Brazil,14,14,14,14,14,14,14,13,True,True,True,True,True,True,True,True,True,True
+BRB,Barbados,14,14,14,14,14,12,0,1,True,True,True,True,False,True,False,False,False,False
+BRN,Brunei Darussalam,14,14,14,14,14,13,14,0,True,True,True,True,False,True,True,True,False,False
+BTN,Bhutan,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+BWA,Botswana,14,14,14,14,14,9,14,1,True,True,True,True,False,True,True,True,False,False
+CAF,Central African Republic,14,14,14,14,13,13,13,1,True,True,False,True,False,True,False,True,False,False
+CAN,Canada,14,14,14,14,14,14,14,13,True,True,True,True,True,True,True,True,True,True
+CHE,Switzerland,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+CHL,Chile,14,14,14,14,14,14,14,6,True,True,True,True,True,True,True,True,True,True
+CHN,China,14,14,14,14,14,11,14,13,True,True,True,True,False,True,True,True,True,True
+CIV,Côte d'Ivoire,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+CMR,Cameroon,14,14,14,14,14,13,14,2,True,True,True,True,False,True,True,True,False,False
+COD,Congo (Democratic Republic of the),14,14,14,14,14,14,14,2,True,True,True,True,True,True,True,True,False,False
+COG,Congo,14,14,14,14,14,14,14,1,True,True,True,True,True,True,True,True,False,False
+COL,Colombia,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+COM,Comoros,14,14,14,14,14,10,0,2,True,True,True,True,False,True,False,False,False,False
+CPV,Cabo Verde,14,14,14,14,14,9,0,1,True,True,True,True,False,True,False,False,False,False
+CRI,Costa Rica,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+CUB,Cuba,14,14,14,14,14,0,14,0,True,True,True,True,False,False,True,True,False,False
+CYP,Cyprus,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+CZE,Czechia,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+DEU,Germany,14,14,14,14,14,14,14,13,True,True,True,True,True,True,True,True,True,True
+DJI,Djibouti,11,14,14,14,14,12,14,3,False,True,False,True,False,True,False,True,False,True
+DMA,Dominica,14,14,14,14,14,0,0,0,True,True,True,True,False,False,False,False,False,False
+DNK,Denmark,14,14,14,14,14,10,14,14,True,True,True,True,False,True,True,True,True,True
+DOM,Dominican Republic,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+DZA,Algeria,14,14,14,14,14,12,14,1,True,True,True,True,False,True,True,True,False,False
+ECU,Ecuador,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+EGY,Egypt,14,14,14,14,14,14,14,6,True,True,True,True,True,True,True,True,True,True
+ERI,Eritrea,2,14,14,14,14,0,14,0,False,True,False,True,False,False,False,True,False,False
+ESP,Spain,14,14,14,14,14,10,14,14,True,True,True,True,False,True,True,True,True,True
+EST,Estonia,14,14,14,14,14,10,14,14,True,True,True,True,False,True,True,True,True,True
+ETH,Ethiopia,14,14,14,14,14,13,14,3,True,True,True,True,False,True,True,True,True,True
+FIN,Finland,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+FJI,Fiji,14,14,14,14,14,3,0,2,True,True,True,True,False,True,False,False,False,False
+FRA,France,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+FSM,Micronesia (Federated States of),14,14,14,14,14,0,0,1,True,True,True,True,False,False,False,False,False,False
+GAB,Gabon,14,14,14,14,14,12,14,1,True,True,True,True,False,True,True,True,False,False
+GBR,United Kingdom,14,14,14,14,14,14,14,12,True,True,True,True,True,True,True,True,True,True
+GEO,Georgia,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+GHA,Ghana,14,14,14,14,14,14,14,2,True,True,True,True,True,True,True,True,False,False
+GIN,Guinea,14,14,14,14,14,14,14,2,True,True,True,True,True,True,True,True,False,False
+GMB,Gambia,14,14,14,14,14,13,14,3,True,True,True,True,False,True,True,True,True,True
+GNB,Guinea-Bissau,14,14,14,14,14,14,0,3,True,True,True,True,True,True,False,False,True,True
+GNQ,Equatorial Guinea,14,14,14,14,14,0,14,1,True,True,True,True,False,False,True,True,False,False
+GRC,Greece,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+GRD,Grenada,14,14,14,14,14,0,0,1,True,True,True,True,False,False,False,False,False,False
+GTM,Guatemala,14,14,14,14,14,9,14,2,True,True,True,True,False,True,True,True,False,False
+GUY,Guyana,14,14,14,14,14,0,0,0,True,True,True,True,False,False,False,False,False,False
+HKG,"Hong Kong, China (SAR)",14,14,14,14,14,14,0,0,True,True,True,True,True,True,False,False,False,False
+HND,Honduras,14,14,14,14,14,14,14,11,True,True,True,True,True,True,True,True,True,True
+HRV,Croatia,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+HTI,Haiti,14,14,14,14,14,12,14,1,True,True,True,True,False,True,True,True,False,False
+HUN,Hungary,14,14,14,14,14,14,14,8,True,True,True,True,True,True,True,True,True,True
+IDN,Indonesia,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+IND,India,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+IRL,Ireland,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+IRN,Iran (Islamic Republic of),14,14,14,14,14,14,14,13,True,True,True,True,True,True,True,True,True,True
+IRQ,Iraq,14,14,14,14,14,13,14,2,True,True,True,True,False,True,True,True,False,False
+ISL,Iceland,14,14,14,14,14,14,14,10,True,True,True,True,True,True,True,True,True,True
+ISR,Israel,14,14,14,14,14,14,14,13,True,True,True,True,True,True,True,True,True,True
+ITA,Italy,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+JAM,Jamaica,14,14,14,14,14,13,14,2,True,True,True,True,False,True,True,True,False,False
+JOR,Jordan,14,14,14,14,14,14,14,1,True,True,True,True,True,True,True,True,False,False
+JPN,Japan,14,14,14,14,14,14,14,11,True,True,True,True,True,True,True,True,True,True
+KAZ,Kazakhstan,14,14,14,14,14,14,14,12,True,True,True,True,True,True,True,True,True,True
+KEN,Kenya,14,14,14,14,14,14,14,4,True,True,True,True,True,True,True,True,True,True
+KGZ,Kyrgyzstan,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+KHM,Cambodia,14,14,14,14,14,14,14,0,True,True,True,True,True,True,True,True,False,False
+KIR,Kiribati,14,14,14,14,14,6,0,2,True,True,True,True,False,True,False,False,False,False
+KNA,Saint Kitts and Nevis,14,14,14,14,14,0,0,0,True,True,True,True,False,False,False,False,False,False
+KOR,Korea (Republic of),14,14,14,14,14,14,14,9,True,True,True,True,True,True,True,True,True,True
+KWT,Kuwait,14,14,14,14,14,0,14,0,True,True,True,True,False,False,True,True,False,False
+LAO,Lao People's Democratic Republic,14,14,14,14,14,14,14,2,True,True,True,True,True,True,True,True,False,False
+LBN,Lebanon,14,14,14,14,14,0,14,2,True,True,True,True,False,False,True,True,False,False
+LBR,Liberia,14,14,14,14,14,11,14,2,True,True,True,True,False,True,True,True,False,False
+LBY,Libya,14,14,14,14,14,0,14,0,True,True,True,True,False,False,True,True,False,False
+LCA,Saint Lucia,14,14,14,14,14,7,0,1,True,True,True,True,False,True,False,False,False,False
+LIE,Liechtenstein,1,14,14,14,14,0,0,0,False,True,False,True,False,False,False,False,False,False
+LKA,Sri Lanka,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+LSO,Lesotho,14,14,14,14,14,14,0,1,True,True,True,True,True,True,False,False,False,False
+LTU,Lithuania,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+LUX,Luxembourg,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+LVA,Latvia,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+MAR,Morocco,14,14,14,14,14,14,14,1,True,True,True,True,True,True,True,True,False,False
+MCO,Monaco,14,14,0,14,0,0,0,0,False,False,False,False,False,False,False,False,False,False
+MDA,Moldova (Republic of),14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+MDG,Madagascar,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+MDV,Maldives,14,14,14,14,14,14,0,2,True,True,True,True,True,True,False,False,False,False
+MEX,Mexico,14,14,14,14,14,14,14,7,True,True,True,True,True,True,True,True,True,True
+MHL,Marshall Islands,14,14,13,14,13,4,0,1,False,True,False,True,False,True,False,False,False,False
+MKD,North Macedonia,14,14,14,14,14,14,14,10,True,True,True,True,True,True,True,True,True,True
+MLI,Mali,14,14,14,14,14,13,14,2,True,True,True,True,False,True,True,True,False,False
+MLT,Malta,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+MMR,Myanmar,14,14,14,14,14,9,14,2,True,True,True,True,False,True,True,True,False,False
+MNE,Montenegro,14,14,14,14,14,14,0,12,True,True,True,True,True,True,False,False,True,True
+MNG,Mongolia,14,14,14,14,14,14,14,7,True,True,True,True,True,True,True,True,True,True
+MOZ,Mozambique,14,14,14,14,14,13,14,3,True,True,True,True,False,True,True,True,True,True
+MRT,Mauritania,14,14,14,14,14,14,14,2,True,True,True,True,True,True,True,True,False,False
+MUS,Mauritius,14,14,14,14,14,14,0,2,True,True,True,True,True,True,False,False,False,False
+MWI,Malawi,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+MYS,Malaysia,14,14,14,14,14,14,14,5,True,True,True,True,True,True,True,True,True,True
+NAM,Namibia,14,14,14,14,14,14,14,1,True,True,True,True,True,True,True,True,False,False
+NER,Niger,14,14,14,14,14,12,14,4,True,True,True,True,False,True,True,True,True,True
+NGA,Nigeria,14,14,14,14,14,13,14,5,True,True,True,True,False,True,True,True,True,True
+NIC,Nicaragua,14,14,14,14,14,14,14,1,True,True,True,True,True,True,True,True,False,False
+NLD,Netherlands,14,14,14,14,14,14,14,12,True,True,True,True,True,True,True,True,True,True
+NOR,Norway,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+NPL,Nepal,14,14,14,14,14,13,14,2,True,True,True,True,False,True,True,True,False,False
+NRU,Nauru,14,14,14,14,14,3,0,1,True,True,True,True,False,True,False,False,False,False
+NZL,New Zealand,14,14,14,14,14,5,14,0,True,True,True,True,False,True,True,True,False,False
+OMN,Oman,14,14,14,14,14,13,14,0,True,True,True,True,False,True,True,True,False,False
+PAK,Pakistan,14,14,14,14,14,14,14,5,True,True,True,True,True,True,True,True,True,True
+PAN,Panama,14,14,14,14,14,14,14,12,True,True,True,True,True,True,True,True,True,True
+PER,Peru,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+PHL,Philippines,14,14,14,14,14,14,14,5,True,True,True,True,True,True,True,True,True,True
+PLW,Palau,14,14,14,14,14,10,0,0,True,True,True,True,False,True,False,False,False,False
+PNG,Papua New Guinea,14,14,14,14,14,8,14,0,True,True,True,True,False,True,True,True,False,False
+POL,Poland,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+PRK,Korea (Democratic People's Rep. of),0,14,0,14,0,0,0,0,False,False,False,False,False,False,False,False,False,False
+PRT,Portugal,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+PRY,Paraguay,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+PSE,"Palestine, State of",14,14,14,14,14,14,14,4,True,True,True,True,True,True,True,True,True,True
+QAT,Qatar,14,14,14,14,14,0,14,1,True,True,True,True,False,False,True,True,False,False
+ROU,Romania,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+RUS,Russian Federation,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+RWA,Rwanda,14,14,14,14,14,14,14,4,True,True,True,True,True,True,True,True,True,True
+SAU,Saudi Arabia,14,14,14,14,14,0,14,0,True,True,True,True,False,False,True,True,False,False
+SDN,Sudan,14,14,14,14,14,14,12,1,True,True,True,True,True,True,False,True,False,False
+SEN,Senegal,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+SGP,Singapore,14,14,14,14,14,14,14,0,True,True,True,True,True,True,True,True,False,False
+SLB,Solomon Islands,14,14,14,14,14,11,0,1,True,True,True,True,False,True,False,False,False,False
+SLE,Sierra Leone,14,14,14,14,14,13,14,2,True,True,True,True,False,True,True,True,False,False
+SLV,El Salvador,14,14,14,14,14,14,14,13,True,True,True,True,True,True,True,True,True,True
+SMR,San Marino,14,14,14,14,14,0,0,0,True,True,True,True,False,False,False,False,False,False
+SOM,Somalia,14,14,2,2,2,2,2,0,False,True,False,True,False,True,False,True,False,False
+SRB,Serbia,14,14,14,14,14,11,14,13,True,True,True,True,False,True,True,True,True,True
+SSD,South Sudan,6,14,14,14,14,14,13,1,False,True,False,True,False,True,False,True,False,False
+STP,Sao Tome and Principe,14,14,14,14,14,14,0,2,True,True,True,True,True,True,False,False,False,False
+SUR,Suriname,14,14,14,14,14,0,0,1,True,True,True,True,False,False,False,False,False,False
+SVK,Slovakia,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+SVN,Slovenia,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+SWE,Sweden,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+SWZ,Eswatini (Kingdom of),14,14,14,14,14,14,0,1,True,True,True,True,True,True,False,False,False,False
+SYC,Seychelles,14,14,14,14,14,5,0,2,True,True,True,True,False,True,False,False,False,False
+SYR,Syrian Arab Republic,13,14,14,14,14,6,14,1,False,True,False,True,False,True,False,True,False,False
+TCD,Chad,14,14,14,14,14,13,14,3,True,True,True,True,False,True,True,True,True,True
+TGO,Togo,14,14,14,14,14,14,14,4,True,True,True,True,True,True,True,True,True,True
+THA,Thailand,14,14,14,14,14,12,14,14,True,True,True,True,False,True,True,True,True,True
+TJK,Tajikistan,14,14,14,14,14,12,14,4,True,True,True,True,False,True,True,True,True,True
+TKM,Turkmenistan,14,14,14,14,14,0,14,0,True,True,True,True,False,False,True,True,False,False
+TLS,Timor-Leste,14,14,14,14,14,14,0,1,True,True,True,True,True,True,False,False,False,False
+TON,Tonga,14,14,14,14,14,5,0,2,True,True,True,True,False,True,False,False,False,False
+TTO,Trinidad and Tobago,14,14,14,14,14,0,0,0,True,True,True,True,False,False,False,False,False,False
+TUN,Tunisia,14,14,14,14,14,13,14,3,True,True,True,True,False,True,True,True,True,True
+TUR,Türkiye,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+TUV,Tuvalu,14,14,14,14,14,5,0,1,True,True,True,True,False,True,False,False,False,False
+TZA,Tanzania (United Republic of),14,14,14,14,14,14,14,2,True,True,True,True,True,True,True,True,False,False
+UGA,Uganda,14,14,14,14,14,14,14,4,True,True,True,True,True,True,True,True,True,True
+UKR,Ukraine,14,14,14,14,14,14,14,11,True,True,True,True,True,True,True,True,True,True
+URY,Uruguay,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+USA,United States,14,14,14,14,14,14,14,14,True,True,True,True,True,True,True,True,True,True
+UZB,Uzbekistan,14,14,14,14,14,0,14,3,True,True,True,True,False,False,True,True,True,True
+VCT,Saint Vincent and the Grenadines,14,14,14,14,14,0,0,0,True,True,True,True,False,False,False,False,False,False
+VEN,Venezuela (Bolivarian Republic of),14,14,14,14,14,13,14,0,True,True,True,True,False,True,True,True,False,False
+VNM,Viet Nam,14,14,14,14,14,14,14,7,True,True,True,True,True,True,True,True,True,True
+VUT,Vanuatu,14,14,14,14,14,14,0,2,True,True,True,True,True,True,False,False,False,False
+WSM,Samoa,14,14,14,14,14,5,0,1,True,True,True,True,False,True,False,False,False,False
+YEM,Yemen,9,14,14,14,14,14,14,1,False,True,False,True,False,True,False,True,False,False
+ZAF,South Africa,14,14,14,14,14,12,14,3,True,True,True,True,False,True,True,True,True,True
+ZMB,Zambia,14,14,14,14,14,14,14,3,True,True,True,True,True,True,True,True,True,True
+ZWE,Zimbabwe,14,14,14,14,14,13,14,3,True,True,True,True,False,True,True,True,True,True

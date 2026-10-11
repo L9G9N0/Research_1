@@ -1,0 +1,3 @@
+Period,Total Countries Evaluated,Condition (a): GDPpc + LE + Schooling (Balanced),Condition (a): GDPpc + LE + Schooling (Any Obs),Condition (b): (a) + HDI (Balanced),Condition (b): (a) + HDI (Any Obs),Condition (c): (a) + IHDI (Balanced),Condition (c): (a) + IHDI (Any Obs),Condition (d): (a) + PHDI (Balanced),Condition (d): (a) + PHDI (Any Obs),Condition (e): (a) + >=3 Gini Obs (Balanced a),Condition (e): (a) + >=3 Gini Obs (Any Obs a)
+2000-2023 (24 years),195,169,193,166,193,0,170,141,156,130,141
+2010-2023 (14 years),195,185,193,184,193,109,170,148,156,104,105

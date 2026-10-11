@@ -1,0 +1,7 @@
+Variable Code,Variable Name,N,Pearson r,Pearson p-value,Spearman rho,Spearman p-value
+le,Life Expectancy at Birth,189,0.857,9.79e-56,0.8656,4.55e-58
+mys,Mean Years of Schooling,188,0.8196,7.18e-47,0.817,2.40e-46
+eys,Expected Years of Schooling,189,0.8066,1.45e-44,0.8202,3.06e-47
+hdi,Human Development Index (HDI),188,0.9436,3.29e-91,0.952,1.49e-97
+ihdi,Inequality-adjusted HDI (IHDI),167,0.9206,2.94e-69,0.9253,2.24e-71
+phdi,Planetary pressures-adjusted HDI (PHDI),152,0.6432,4.08e-19,0.6778,8.78e-22

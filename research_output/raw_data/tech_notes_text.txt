@@ -1,0 +1,1679 @@
+
+
+==================== PAGE 1 ====================
+
+Human Develoment Report 2025 technical notes
+Calculating the human development indices—graphical presentation
+(continued)
+Inequality-adjusted
+Human Development
+Index (IHDI)
+Knowledge
+Mean years
+of schooling
+Expected years
+of schooling
+Education index
+Life expectancy index
+Human Development Index (HDI)
+Life expectancy at birth
+GNI index
+GNI per capita (PPP $)
+DIMENSIONS
+INDICATORS
+DIMENSION
+INDEX
+Long and healthy life
+A decent standard of living
+Human Development
+Index (HDI)
+Knowledge
+Long and healthy life
+A decent standard of living
+Years of schooling
+Life expectancy
+Inequality-adjusted Human Development Index (IHDI)
+Life expectancy at birth
+Income/consumption
+GNI per capita (PPP $)
+DIMENSIONS
+INDICATORS
+DIMENSION
+INDEX
+Inequality-adjusted
+education index
+Inequality-adjusted
+life expectancy index
+Inequality-adjusted
+income index
+INEQUALITY-
+ADJUSTED 
+INDEX
+Gender Development Index (GDI)
+DIMENSIONS
+INDICATORS
+DIMENSION 
+INDEX
+Gender Development 
+Index (GDI)
+Male
+Female
+Mean
+years of
+schooling
+Expected
+years of
+schooling
+Knowledge
+GNI per capita
+(PPP $)
+Standard
+of living
+Long and
+healthy life
+Life expectancy
+Mean
+years of
+schooling
+Expected
+years of
+schooling
+Knowledge
+GNI per capita
+(PPP $)
+Standard
+of living
+Long and
+healthy life
+Life expectancy
+Human Development Index (female)
+Life expectancy index
+GNI index
+Education index
+Life expectancy index
+GNI index
+Education index
+Human Development Index (male)
+Mean years
+of schooling
+Expected years
+of schooling
+TECHNICAL NOTES 1–6
+1
+
+
+==================== PAGE 2 ====================
+
+Calculating the human development indices—graphical presentation (continued)
+ 
+Health
+Education
+School
+attendance
+Years
+of schooling
+Headcount
+ratio
+Intensity
+of poverty
+Multidimensional Poverty Index (MPI)
+Standard of living
+DIMENSIONS
+INDICATORS
+POVERTY 
+MEASURES
+Multidimensional
+Poverty Index (MPI)
+Health
+Empowerment
+Female and male shares
+of parliamentary seats
+Female and male
+population with at least
+secondary education
+Female and male 
+labour force
+participation rates
+Female labour
+market index
+Labour market
+Maternal 
+mortality
+ratio
+Adolescent 
+birth
+rate
+DIMENSIONS
+INDICATORS
+Gender Inequality 
+Index (GII)
+Gender Inequality Index (GII)
+Female empowerment
+index
+Female
+gender index
+Male
+gender index
+Male labour
+market index
+Male empowerment
+index
+Female reproductive
+health index
+DIMENSION
+INDEX
+Nutrition
+Child mortality
+Sanitation
+Cooking
+fuel
+Drinking
+water
+Electricity Housing Assets
+Planetary pressures–
+adjusted Human 
+Development Index 
+(PHDI)
+Material footprint
+per capita 
+Carbon dioxide emissions 
+per capita (production)
+INDICATORS
+Human Development
+Index (HDI)
+Adjustment factor for
+planetary pressures
+Planetary pressures–adjusted HDI (PHDI)
+2
+HUMAN DEVELOPMENT REPORT 2025
+
+
+==================== PAGE 3 ====================
+
+Technical note 1. Human Development Index
+The Human Development Index (HDI) is a summary 
+measure of achievements in three key dimensions of 
+human development: a long and healthy life, access to 
+knowledge and a decent standard of living. The HDI is 
+the geometric mean of normalized indices for each of 
+the three dimensions. This technical note describes the 
+data sources and the steps to calculating  HDI values.
+Data sources
+•	 Life expectancy at birth: UNDESA (2024).
+•	 Expected years of schooling: ICF Macro 
+Demographic and Health Surveys (various years), 
+UNESCO Institute for Statistics (2024) and United 
+Nations Children's Fund (UNICEF) Multiple 
+Indicator Cluster Surveys (various years).
+•	 Mean years of schooling: Barro and Lee (2018), 
+Eurostat (2024), ICF Macro Demographic and 
+Health Surveys (various years), UNESCO Institute 
+for Statistics (2024) and UNICEF Multiple 
+Indicator Cluster Surveys (various years).
+•	 GNI per capita: IMF (2024), United Nations 
+Statistics Division (2025) and World Bank (2024).
+Steps to calculate Human 
+Development Index values
+There are two steps to calculating HDI values.
+Step 1. Creating the dimension indices
+Minimum and maximum values (goalposts) are set 
+in order to transform the indicators expressed in dif­
+ferent units into indices between 0 and 1. These 
+goalposts act as “the natural zeros” and “aspirational 
+targets,” respectively, from which component indi­
+cators are standardized (see equation 1 below). They 
+are set at the following values:
+Dimension
+Indicator
+Minimum
+Maximum
+Health
+Life expectancy at birth (years)
+20
+85
+Education
+Expected years of schooling (years)
+0
+18
+Mean years of schooling (years)
+0
+15
+Standard of living
+GNI per capita (2021 PPP $)
+100
+75,000
+The justification for placing the natural zero for life 
+expectancy at birth at 20 years is based on historical 
+evidence that no country in the 20th century had a 
+life expectancy at birth of less than 20 years (Mad­
+dison 2010; Oeppen and Vaupel 2002; Riley 2005). 
+Maximum life expectancy at birth is set at 85, a realis­
+tic aspirational target for many countries over the last 
+30 years. Due to constantly improving living condi­
+tions and medical advances, life expectancy at birth 
+in several economies already exceeded 85 years: 
+Hong Kong, China (SAR) in 2019, 2021 and 2023; 
+Monaco in 2011–2023; and San Marino in 2018, 2019, 
+2022 and 2023.
+Societies can subsist without formal education, jus­
+tifying the education minimum of 0 years. The maxi­
+mum for expected years of schooling, 18, is equivalent 
+to achieving a master’s degree in most countries. The 
+maximum for mean years of schooling, 15, is the pro­
+jected maximum of this indicator for 2025.
+The low minimum value for gross national in­
+come (GNI) per capita, $100, is justified by the con­
+siderable amount of unmeasured subsistence and 
+nonmarket production in economies close to the min­
+imum, which is not captured in the official data. The 
+maximum is set at $75,000 per capita so that addi­
+tional income above the maximum does not direct­
+ly contribute to a country’s HDI value or improve its 
+ranking. Nine countries (Brunei Darussalam, Den­
+mark, Ireland, Liechtenstein, Luxembourg, Norway, 
+Qatar, Singapore and Switzerland) exceeded the 
+$75,000 income per capita ceiling in 2023.
+Having defined the minimum and maximum val­
+ues, the dimension indices are calculated as:
+Dimension index =
+actual value – minimum value
+maximum value – minimum value
+ .
+(1)
+For the education dimension, equation 1 is first 
+applied to each of the two indicators, and then the 
+arithmetic mean of the two resulting indices is taken. 
+Using the arithmetic mean of the two education in­
+dices allows perfect substitutability between expect­
+ed years of schooling and mean years of schooling, 
+which seems to be right given that many developing 
+countries have low school attainment among adults 
+but are very eager to achieve universal primary and 
+TECHNICAL NOTES 1–6
+3
+
+
+==================== PAGE 4 ====================
+
+secondary school enrolment among school-age 
+children.
+Because each dimension index is a proxy for capa­
+bilities in the corresponding dimension, the transfor­
+mation function from income to capabilities is likely 
+to be concave (Anand and Sen 2000) — that is, each 
+additional dollar of income has a smaller effect on ex­
+panding capabilities. Thus for income the natural log­
+arithm of the actual, minimum and maximum values 
+is used.
+Step 2. Aggregating the dimensional indices
+The HDI is the geometric mean of the three dimen­
+sional indices:
+HDI = (IHealth . IEducation . IIncome) 1/3
+Example: Benin (2023 HDI) 
+Indicator
+Value
+Life expectancy at birth (years)
+60.8
+Expected years of schooling (years)
+10.4
+Mean years of schooling (years)
+3.2
+Gross national income per capita (2021 PPP $)
+3,806
+Note: Values are rounded.
+Health index = 60.8 – 20
+85 – 20 = 0.628
+Expected years of schooling index = 10.4 – 0
+18 – 0 = 0.578
+Mean years of schooling index = 3.2 – 0
+15 – 0 = 0.213
+Education index = 0.578 + 0.213
+2
+ = 0.396
+Income index = ln(3,806) – ln(100)
+ln(75,000) – ln(100) = 0.550
+Human Development Index = 
+(0.628 . 0.396 . 0.550)1/3 = 0.515
+Methodology used to express income
+The World Bank’s 2024 World Development Indica­
+tors database contains estimates of GNI per capita in 
+constant 2021 purchasing power parity (PPP) terms 
+for many countries. For countries missing this indica­
+tor (entirely or partly), the Human Development Re­
+port Office calculates it by converting GNI per capita 
+in local currency from current to constant terms using 
+two steps. First, the value of GNI per capita in current 
+terms is converted into PPP terms for the base year 
+(2021). Second, a time series of GNI per capita in 2021 
+PPP constant terms is constructed by applying the real 
+growth rates to the GNI per capita in PPP terms for the 
+base year. The real growth rate is implied by the ratio 
+of the nominal growth of GNI per capita in current 
+local currency terms to the GDP deflator.
+For several countries without a value of GNI per 
+capita in constant 2021 PPP terms for 20 23 reported 
+in the World Development Indicators database, real 
+growth rates of GDP per capita available in the World 
+Development Indicators database or in the Interna­
+tional Monetary Fund’s Economic Outlook database 
+are applied to the most recent GNI values in constant 
+PPP terms.
+Official PPP conversion rates are produced by the In­
+ternational Comparison Program, whose surveys peri­
+odically collect thousands of prices of matched goods 
+and services in many countries. The last round of this 
+exercise refers to 2021 and covered 176 economies.
+Human development categories
+The 2014 Human development Report introduced a 
+system of fixed cutoff points for the four categories of 
+human development achievements. The cutoff points 
+(COP) are the HDI values calculated using the quar­
+tiles (q) from the distributions of the component indi­
+cators averaged over 2004–2013:
+COPq = HDI (LEq , EYSq , MYSq , GNIpcq), q = 1,2,3.
+For example, LE1, LE2 and LE3 denote three quartiles 
+of the distribution of life expectancy at birth across 
+countries.
+4
+HUMAN DEVELOPMENT REPORT 2025
+
+
+==================== PAGE 5 ====================
+
+This Report keeps the same cutoff points on the 
+HDI for grouping countries that were introduced in 
+the 2014 Report:
+Very high human development
+0.800 and above
+High human development
+0.700–0.799
+Medium human development
+0.550–0.699
+Low human development
+Below 0.550
+Human Development Index aggregates
+Aggregate HDI values for country groups (by human 
+development category, region and the like) are cal­
+culated by applying the HDI formula to the weight­
+ed group averages of component indicators. Life 
+expectancy at birth and GNI per capita are weight­
+ed by total population, expected years of schooling 
+is weighted by population ages 5–24 and mean years 
+of schooling is weighted by population ages 25 and 
+older.
+Technical note 2. Inequality-adjusted Human Development Index
+The Inequality-adjusted Human Development Index 
+(IHDI) adjusts the Human Development Index (HDI) 
+for inequality in the distribution of each dimension 
+across the population. It is based on a distribution-
+sensitive class of composite indices proposed by Fos­
+ter, Lopez-Calva and Szekely (2005), which draws on 
+the Atkinson (1970) family of inequality measures. 
+It is computed as a geometric mean of inequality-
+adjusted dimensional indices.
+The IHDI accounts for inequalities in HDI dimen­
+sions by “discounting” each dimension’s average 
+value according to its level of inequality. The IHDI 
+value equals the HDI value when there is no inequal­
+ity across people but falls below the HDI value as in­
+equality rises. In this sense the IHDI measures the 
+level of human development when inequality is ac­
+counted for.
+Data sources
+Since the HDI relies on country-level aggregates such 
+as national accounts for income, the IHDI must draw 
+on additional sources of data to obtain insights into 
+the distribution. The distributions are observed over 
+different units — life expectancy is distributed across a 
+hypothetical cohort, while years of schooling and in­
+come are distributed across individuals.
+Inequality in the distribution of HDI dimensions is 
+estimated for:
+•	 Life expectancy,  using data from complete life ta­
+bles provided by UNDESA (2024). Mortality rates 
+and other information are available for each age (0, 
+1, 2, 3, …. 100+).
+•	 Mean years of schooling, using household sur­
+veys data harmonized in international databases, 
+including CEDLAS and World Bank (2024), 
+Eurostat’s European Union Statistics on Income 
+and Living Conditions (2024), ICF Macro De­
+mographic and Health Surveys (various years), LIS 
+(2024), United Nations Children’s Fund Multiple 
+Indicator Cluster Surveys (various years) and 
+UNESCO Institute for Statistics (2024).
+•	 Income, using data from the United Nations 
+University’s World Income Inequality Database 
+(UNU-WIDER 2023). 
+A full account of data sources used for estimating 
+inequality for the 2023 IHDI is available at https://hdr
+.undp.org/inequality-adjusted-human-development
+-index#/indicies/IHDI.
+Steps to calculate Inequality-adjusted 
+Human Development Index values
+There are three steps to calculating IHDI values.
+TECHNICAL NOTES 1–6
+5
+
+
+==================== PAGE 6 ====================
+
+Step 1. Estimating inequality in the three 
+dimensions of the Human Development Index
+The IHDI draws on the Atkinson (1970) family of in­
+equality measures and sets the aversion parameter 
+ε equal to 1.1 In this case the inequality measure is 
+A = 1– g/μ, where g is the geometric mean and μ is the 
+arithmetic mean of the distribution. This can be writ­
+ten as:
+	
+Ax = 1 – 
+n  X1 …Xn
+X–
+
+(1)
+where {X1, … , Xn} denotes the underlying distribution 
+in the dimension of interest. Ax is obtained for each 
+variable (life expectancy, mean years of schooling 
+and disposable household income or consumption 
+per capita).
+The geometric mean in equation 1 does not allow 
+zero values. For mean years of schooling one year 
+is added to all valid observations to compute the 
+inequality.
+Step 2. Adjusting the dimension indices for inequality
+The inequality-adjusted dimension indices are ob­
+tained from the HDI dimension indices, Ix, by multi­
+plying them by (1 – Ax), where Ax, defined by equation 
+1, is the corresponding Atkinson measure:
+I *
+x = (1 – Ax ) . Ix .
+The inequality-adjusted income index, I *
+income, is 
+based on the index of logged income values, I income*, 
+and inequality in income distribution computed 
+using income in levels. This enables the IHDI to ac­
+count for the full effect of income inequality.
+1	
+The inequality aversion parameter affects the degree to which lower achieve­
+ments are emphasized and higher achievements are de-emphasized.
+Step 3. Combining the dimension indices
+The IHDI is the geometric mean of the three dimen­
+sion indices adjusted for inequality:
+IHDI = (I *
+Health . I*
+Education . I *
+Income)1/3 =
+[(1 – AHealth) . (1 – AEducation) . (1 – AIncome)]1/3 . HDI.
+The loss in HDI value due to inequality is:
+Loss = 1 – [(1 – AHealth) . (1 – AEducation) . (1 – AIncome)]1/3.
+Difference in Inequality-adjusted 
+Human Development Index rank and 
+Human Development Index rank
+Difference in ranks on the IHDI and the HDI is calcu­
+lated only for countries for which both an IHDI value 
+and an HDI value are calculated. Due to data limita­
+tions, IHDI values are calculated for a smaller set of 
+countries. To calculate the IHDI rank difference from 
+the HDI rank, HDI ranks are recalculated for the set 
+of countries for which an IHDI value is calculated.
+Coefficient of human inequality
+An unweighted average of inequalities in health, ed­
+ucation and income is denoted as the coefficient of 
+human inequality. It averages these inequalities using 
+the arithmetic mean:
+Coefficient of human inequality = 
+AHealth + AEducation + AIncome
+3
+ .
+When all inequalities in dimensions are of a similar 
+magnitude, the coefficient of human inequality and 
+the loss in HDI value differ negligibly. When inequal­
+ities differ in magnitude, the loss in HDI value tends 
+to be higher than the coefficient of human inequality.
+Notes on methodology and caveats
+The IHDI is based on the Atkinson index, which satis­
+fies subgroup consistency. This property ensures that 
+improvements (deteriorations) in the distribution of 
+human development within only a certain group of 
+the society imply improvements (deteriorations) in 
+the distribution across the entire society.
+6
+HUMAN DEVELOPMENT REPORT 2025
+
+
+==================== PAGE 7 ====================
+
+The main disadvantage is that the IHDI is not as­
+sociation sensitive, so it does not capture overlapping 
+inequalities. To make the measure association sensi­
+tive, all the data for each individual must be available 
+from a single survey source, which is not currently 
+possible for a large number of countries.
+Example: Nepal (2023 IHDI)
+Indicator
+Indicator
+Dimension 
+index
+Inequality 
+measure 
+(A)a
+Inequality-
+adjusted index 
+(I*)
+Life expectancy (years)
+70.4
+0.775
+0.150
+(1 – 0.150) ∙ 0.775
+= 0.659
+Expected years of schooling (years)
+13.8
+0.767
+—
+—
+Mean years of schooling (years)
+4.5
+0.300
+—
+—
+Education index
+0.534
+0.398
+(1 – 0.398) ∙ 0.534
+= 0.320
+Gross national income per capita 
+(2021 PPP $)
+4,726
+0.582
+0.319
+(1 – 0.319) ∙ 0.582
+= 0.397
+Human Development Index
+Inequality-adjusted Human 
+Development Index
+(0.775 . 0.534 . 0.582)1/3 = 0.622
+(0.659 . 0.320 . 0.397)1/3 = 0.437
+Loss due to inequality (%):
+Coefficient of human inequality (%)
+100 . (1 – 0.437
+0.622) = 29.7
+100 . (0.150 + 0.398 + 0.319)
+3
+ = 28.9
+Note: Values are rounded.
+a. Inequalities are estimated from micro data.
+Technical note 3. Gender Development Index
+The Gender Development Index (GDI) measures 
+gender inequalities in achievement in three basic 
+dimensions of human development: health, meas­
+ured by female and male life expectancy at birth; 
+education, measured by female and male expected 
+years of schooling for children and female and male 
+mean years of schooling for adults ages 25 years 
+and older; and command over economic resourc­
+es, measured by female and male estimated earned 
+income.
+Data sources
+•	 Life expectancy at birth: UNDESA (2024).
+•	 Expected years of schooling: ICF Macro 
+Demographic and Health Surveys (various years), 
+UNESCO Institute for Statistics (2024) and United 
+Nations Children’s Fund (UNICEF) Multiple 
+Indicator Cluster Surveys (various years).
+•	 Mean years of schooling for adults ages 25 and 
+older: Barro and Lee (2018), Eurostat (2024), ICF 
+Macro Demographic and Health Surveys (various 
+years), UNESCO Institute for Statistics (2024) and 
+UNICEF Multiple Indicator Cluster Surveys (vari­
+ous years).
+•	 Estimated earned income: Human Development 
+Report Office estimates based on female and male 
+shares of the economically active population, the 
+ratio of the female to male wage in all sectors and 
+gross national income in 2021 purchasing power 
+parity (PPP) terms, and female and male shares of 
+population from ILO (2024), IMF (2024), UNDESA 
+(2024), United Nations Statistics Division (2025) 
+and World Bank (2024).
+Steps to calculate Gender 
+Development Index values
+There are four steps to calculating GDI values.
+Step 1. Estimating female and male earned incomes
+To calculate estimated earned incomes, the share 
+of the wage bill is calculated for each gender. The 
+TECHNICAL NOTES 1–6
+7
+
+
+==================== PAGE 8 ====================
+
+female share of the wage bill (Sf) is calculated as 
+follows:
+Sf = 
+Wf /Wm . EAf
+Wf /Wm . EAf + EAm
+where Wf/Wm is the ratio of female to male wage, EAf 
+is the female share of the economically active popula­
+tion and EAm is the male share.
+The male share of the wage bill is calculated as:
+Sm = 1 – Sf.
+Estimated female earned income per capita 
+(GNIpcf) is obtained from GNI per capita (GNIpc), 
+first by multiplying it by the female share of the wage 
+bill, Sf , and then rescaling it by the female share of 
+the population, Pf = Nf /N:
+GNIpcf = GNIpc . Sf /Pf .
+Estimated male earned income per capita is ob­
+tained in the same way:
+GNIpcm = GNIpc . Sm/Pm
+where Pm = 1 – Pf is the male share of population.
+Step 2. Normalizing the indicators
+To construct the female and male HDI values, first 
+the indicators, which are in different units, are trans­
+formed into indices and then dimension indices for 
+each sex are aggregated by taking the geometric mean.
+The indicators are transformed into indices on a 
+scale of 0 to 1 using the same goalposts that are used 
+for the HDI, except life expectancy at birth, which is 
+adjusted for the average five-year biological advan­
+tage that women have over men.
+Goalposts for the Gender Development 
+Index in this Report
+Indicator
+Minimum
+Maximum
+Life expectancy at birth (years)
+Female
+22.5
+87.5
+Male
+17.5
+82.5
+Expected years of schooling (years)
+0
+18
+Mean years of schooling (years)
+0
+15
+Estimated earned income (2021 PPP $)
+100
+75,000
+Note: For the rationale on choice of minimum and maximum values, see Technical 
+note 1.
+Having defined the minimum and maximum val­
+ues, the subindices are calculated as follows:
+Dimension index =
+actual value – minimum value
+maximum value – minimum value
+ 
+.
+For education the dimension index is first obtained 
+for each of the two subcomponents, and then the 
+unweighted arithmetic mean of the two resulting in­
+dices is taken.
+Step 3. Calculating the female and male 
+Human Development Index values
+The female and male HDI values are the geometric 
+means of the three dimensional indices for each gender:
+HDIf = (IHealthf . IEducationf . IIncomef)1/3
+HDIm = (IHealthm . IEducationm . IIncomem)1/3
+Step 4. Comparing female and male 
+Human Development Index values
+The GDI is simply the ratio of female HDI value to 
+male HDI value:
+GDI = 
+HDIf
+HDIm
+ .
+Example: Ecuador (2023 GDI)
+Indicator
+Female 
+value
+Male
+value
+Life expectancy at birth (years)
+80.1
+74.7
+Expected years of schooling (years)
+15.4
+14.4
+Mean years of schooling (years)
+8.9
+9.0
+Wage ratio (female/male)
+1.045
+Gross national income per capita (2021 PPP $)
+13,986.4
+Share of economically active population
+0.431
+0.569
+Share of population
+0.501
+0.499
+Female wage bill:
+Sf = (1.045 ∙ 0.431) / [(1.045 ∙ 0.431) + 0.569] = 0.442
+Estimated female earned income per capita:
+GNIpcf = 13,986.4 ∙ 0.442 / 0.501 = 12,333.2
+Male wage bill: 
+Sm = 1 – 0.442= 0.558
+8
+HUMAN DEVELOPMENT REPORT 2025
+
+
+==================== PAGE 9 ====================
+
+Estimated male earned income per capita:
+GNIpcm = 13,986.4 ∙ 0.558 / 0.499 = 15,648.9
+Female health index = (80.1 – 22.5) / (87.5 – 22.5) = 0.887
+Male health index = (74.7 – 17.5) / (82.5 – 17.5) = 0.879
+Female education index = [(15.4 / 18) + (8.9 / 15)] / 2 = 0.724
+Male education index = [(14.4 / 18) + (9 / 15)] / 2 = 0.700
+Estimated female earned income index:
+[ln(12,333.2) – ln(100)] / [ln(75,000) – ln(100)] = 0.727
+Estimated male earned income index:
+[ln(15,648.9) – ln(100)] / [(ln(75,000) – ln(100)] = 0.763
+Female HDI = (0.887 ∙ 0.724 ∙ 0.727)1/3 = 0.776
+Male HDI = (0.879 ∙ 0.700 ∙ 0.763)1/3 = 0.777
+GDI = 0.776 / 0.777 = 0.998
+Note: Values are rounded.
+Gender Development Index groups
+The GDI groups are based on the absolute deviation 
+of GDI from gender parity, 100 ∙ |GDI – 1|. Coun­
+tries with absolute deviation from gender parity of 
+2.5 percent or less are considered countries with high 
+equality in HDI achievements between women and 
+men and are classified as group 1. Countries with ab­
+solute deviation from gender parity of 2.5–5 percent 
+are considered countries with medium-high equal­
+ity in HDI achievements between women and men 
+and are classified as group 2. Countries with abso­
+lute deviation from gender parity of 5–7.5 percent are 
+considered countries with medium equality in HDI 
+achievements between women and men and are clas­
+sified as group 3. Countries with absolute deviation 
+from gender parity of 7.5–10 percent are considered 
+countries with medium-low equality in HDI achieve­
+ments between women and men and are classified 
+as group 4. Countries with absolute deviation from 
+gender parity of more than 10 percent are considered 
+countries with low equality in HDI achievements be­
+tween women and men and are classified as group 5.
+Technical note 4. Gender Inequality Index
+The Gender Inequality Index (GII) reflects 
+ gender-based disadvantage in three dimensions —
+reproductive health, empowerment and the labour 
+market — for as many countries as data of reasonable 
+quality allow. It shows the loss in potential human 
+development due to inequality between female and 
+male achievements in these dimensions. It rang­
+es from 0, where women and men fare equally, to 1, 
+where one gender fares as poorly as possible in all 
+measured dimensions.
+GII values are computed using the association-
+sensitive inequality measure suggested by Seth 
+(2009), which implies that the index is based on the 
+general mean of general means of different orders —
+the first aggregation is by a geometric mean across 
+dimensions; these means, calculated separately for 
+women and men, are then aggregated using a har­
+monic mean across genders.
+Data sources
+•	 Maternal mortality ratio (MMR): WHO, UNICEF, 
+UNFPA, World Bank Group and UNDESA/
+Population Division (2023).
+•	 Adolescent birth rate (ABR): UNDESA (2024).
+•	 Share of parliamentary seats held by each sex (PR): 
+IPU (2024).
+•	 Population with at least some secondary education 
+(SE): Barro and Lee (2018), UNESCO Institute for 
+Statistics (2024) and United Nations Children’s 
+Fund Multiple Indicator Cluster Surveys (various 
+years).
+•	 Labour force participation rate (LFPR): ILO (2024).
+Steps to calculate Gender 
+Inequality Index values
+There are five steps to calculating GII values.
+TECHNICAL NOTES 1–6
+9
+
+
+==================== PAGE 10 ====================
+
+Step 1. Treating zeros and extreme values
+Because a geometric mean cannot be computed from 
+zero values, a minimum value of 0.1 percent is set for 
+all component indicators. Further, as higher maternal 
+mortality suggests poorer maternal health, for the ma­
+ternal mortality ratio the maximum value is truncated 
+at 1,000 deaths per 100,000 births and the minimum 
+value at 10. The rationale is that countries where mater­
+nal mortality ratios exceed 1,000 do not differ in their 
+inability to create conditions and support for maternal 
+health and that countries with 10 or fewer deaths per 
+100,000 births are performing at essentially the same 
+level and that small differences are random. Sensitivity 
+analysis of the GII is given in Gaye and others (2010).
+Step 2. Aggregating across dimensions within 
+each gender group, using geometric means
+Aggregating across dimensions for each gender 
+group by the geometric mean makes the GII associa­
+tion sensitive (see Seth 2009).
+For women and girls the aggregation formula is:
+GF =	
+3 
+1/2 . (PRF . SEF)1/2 . LFPRF , 
+(1)
+10
+MMR 
+1
+ABR 
+.
+and for men and boys the formula is
+GM = 
+3 1 . (PRM . SEM) 1/2 . LFPRM .
+The rescaling by 0.1 of the maternal mortality ratio 
+in equation 1 is needed to account for the truncation 
+of the maternal mortality ratio at 10.
+Step 3. Aggregating across gender 
+groups, using a harmonic mean
+The female and male indices are aggregated by the 
+harmonic mean to create the equally distributed gen­
+der index
+HARM (GF , GM) = 
+(GF)–1 + (GM)–1
+2
+ 
+–1
+ .
+Using the harmonic mean of within-group ge­
+ometric means captures the inequality between 
+women and men and adjusts for association between 
+dimensions — that is, it accounts for the overlapping 
+inequalities in dimensions.
+Step 4. Calculating the geometric mean of 
+the arithmetic means for each indicator
+The reference standard for computing inequali­
+ty is obtained by aggregating female and male indi­
+ces using equal weights (thus treating the genders 
+equally) and then aggregating the indices across 
+dimensions:
+GF, M = 
+3  Health . Empowerment . LFPR
+where  Health = 
+10
+MMR 
+1
+ABR 
+.
++ 1 /2,
+Empowerment = (  PRF . SEF  + 
+PRM . SEM )/2 and
+LFPR = 
+LFPRF + LFPRM
+2
+ .
+Health should not be interpreted as an average of 
+corresponding female and male indices but rather 
+as half the distance from the norms established for 
+the reproductive health indicators — fewer maternal 
+deaths and fewer adolescent pregnancies.
+Step 5. Comparing indices
+Comparing the equally distributed gender index to 
+the reference standard yields the GII,
+1 – 
+HARM (GF, GM )
+GF, M 
+– –
+ 
+.
+Example: Germany (2023 GII)
+Health
+Empowerment
+Labour 
+market
+Maternal 
+mortality 
+ratio 
+(deaths per 
+100,000 
+live births)
+Adolescent 
+birth rate 
+(births 
+per 1,000 
+women 
+ages 
+15–19)
+Share of 
+seats in 
+parliament 
+(% held)
+Population 
+with at 
+least some 
+secondary 
+education (%)
+Labour force 
+participation 
+rate (%)
+Female
+4.428
+5.473
+35.279
+93.591
+56.410
+Male
+na
+na
+64.721
+94.346
+66.720
+F + M
+2
+	
+2	
++ 1
+ = 0.714
+ 0.353 . 0.936 +    0.647 . 0.943
+2
+= 0.677
+0.564 + 0.667
+2
+= 0.615
+na is not applicable.
+Note: Because the maternal mortality ratio for Germany is less than the minimum 
+value (10), it is truncated.
+10
+10
+(
+)
+1
+5.473
+(
+)
+10
+HUMAN DEVELOPMENT REPORT 2025
+
+
+==================== PAGE 11 ====================
+
+Using the above formulas, it is straightforward to obtain:
+GF:  3 
+10
+10
+1
+5.473
+.
+ . 
+0.353 . 0.936 . 0.564 = 0.517
+GM:  3  1. 
+0.647 . 0.943 . 0.667 = 0.805
+HARM (GF , GM ): 
+1
+0.517
+1
+2 
+1
+0.805
++
+ 
+–1
+ = 0.630
+GF, M : 
+3  0.714 . 0.677 . 0.615
+– –
+ = 0.668
+GII: 
+1 – (0.630 / 0.668) = 0.057
+Technical note 5. Multidimensional Poverty Index
+The global Multidimensional Poverty Index (MPI) 
+identifies multiple deprivations at the household level 
+in health, education and standard of living. It uses 
+micro data from household surveys, and—unlike the 
+Inequality-adjusted Human Development Index—
+all the indicators needed to construct the measure 
+must come from the same survey. More details about 
+the general methodology can be found in Alkire and 
+Jahan (2018). Programs (Stata do-files) for comput­
+ing the MPI and its components for a large selection 
+of countries with appropriate data are available at 
+https://hdr.undp.org/mpi-statistical-programmes. 
+Programs for computing the MPI in R format are also 
+available for a small selection of countries.2
+Data sources
+•	 ICF Macro Demographic and Health Surveys. 
+•	 United Nations Children’s Fund Multiple Indicator 
+Cluster Surveys.
+•	 For several countries, national household surveys 
+with the same or similar content and question­
+naires: Bhutan, 2022 Bhutan Living Standards 
+Survey; Plurinational State of Bolivia, 2016 
+Encuesta de Demografía y Salud; Botswana, 
+2015/2016 Multi-Topic Household Survey; Brazil, 
+2015 Pesquisa Nacional por Amostra de Domicílios; 
+2	
+These global estimates are jointly produced by OPHI and HDRO using 112 
+survey datasets. For harmonized changes over time, see table 2 in OPHI and 
+UNDP (2024), produced by Alkire, Kanagaratnam and Suppa (2024) using 
+233 survey datasets.
+China, 2014 China Family Panel Studies; Ecuador, 
+2018 Encuesta Nacional de Salud y Nutrición; 
+Jamaica, 2018 Jamaica Survey of Living Conditions; 
+Libya, 2014 Pan Arab Population and Family 
+Health Survey; Mexico, 2022 Encuesta Nacional 
+de Salud y Nutricion; Morocco, 2017/2018 Pan 
+Arab Population and Family Health Survey; Peru, 
+2022 Encuesta Demográfica y de Salud Familiar; 
+Seychelles, 2019 Quarterly Labor Force Survey; and 
+Sri Lanka, 2016 Demographic and Health Survey.
+Methodology 
+The 2024 global MPI has the same functional form 
+and indicators as in 2018. It continues to use 10 in­
+dicators in three dimensions—health, education and 
+standard of living—following the same dimensions 
+and weights as the Human Development Index. 
+Each person is assigned a deprivation score accord­
+ing to his or her household’s deprivations in each of 
+the 10 indicators. The maximum deprivation score 
+is 100 percent, with each dimension equally weight­
+ed; thus, the maximum deprivation score in each di­
+mension is 33.3 percent or, more accurately, ⅓. The 
+health and education dimensions have two indicators 
+each, so each indicator is weighted as 1/ 6. The stand­
+ard of living dimension has six indicators, so each in­
+dicator is weighted as 1/ 18.
+To identify multidimensionally poor people, the 
+deprivation scores for each indicator are summed to 
+TECHNICAL NOTES 1–6
+11
+
+
+==================== PAGE 12 ====================
+
+obtain the household deprivation score. A cutoff of 
+⅓ is used to distinguish between poor and nonpoor 
+people. If the deprivation score is ⅓ or higher, that 
+household (and everyone in it) is considered multi­
+dimensionally poor. People with a deprivation score 
+of 1/ 5 or higher but less than ⅓ are considered to be 
+vulnerable to multidimensional poverty. People with 
+a deprivation score of ½ or higher are considered to 
+be in severe multidimensional poverty.
+The headcount ratio, H, or incidence of multi­
+dimensional poverty is the proportion of multi­
+dimensionally poor people in the population:
+H = 
+q
+n
+where q is the number of people who are multi­
+dimensionally poor and n is the total population.
+The intensity of poverty, A, reflects the average pro­
+portion of the weighted component indicators in which 
+multidimensionally poor people are deprived. For 
+multidimensionally poor people only (those with a dep­
+rivation score s greater than or equal to 33.3 percent), 
+the deprivation scores are summed and divided by the 
+total number of multidimensionally poor people: 
+A = 
+∑1
+qsi
+q
+ 
+where si is the deprivation score that the ith multi­
+dimensionally poor person experiences.
+The deprivation score si of the ith multi­
+dimensionally poor person can be expressed as 
+the sum of the weights associated with each indi­
+cator j ( j = 1, 2, …, 10) in which person i is deprived, 
+si = ci1 + ci2 + … + ci10.
+Dimension
+Indicator
+Deprived if…
+Weight
+Health
+Nutrition
+Any adult under age 70 years or any child for whom nutritional information is available is undernourished. Adults ages 
+19–70 years (229–840 months) are considered undernourished if their body mass index (BMI) is below 18.5 kg/m2. 
+Individuals ages 5–19 years (61–228 months) are considered undernourished if their age-specific BMI values are below 
+minus two standard deviations from the median of the reference population (https://www.who.int/growthref/en/). In the 
+majority of countries, BMI-for-age covered individuals ages 15–19 years, as anthropometric data were available only for 
+this age group; if other data were available, BMI-for-age was applied for all individuals ages 5–19 years. Children under 
+age 5 years (under 60 months) are considered undernourished if their z-score for either height-for-age (stunting) or 
+weight-for-age (underweight) is below minus two standard deviations from the median of the reference population (https://
+www.who.int/childgrowth/software/en/). Nutritional information is not provided for households without members eligible 
+for measurement; these households are assumed to be nondeprived in this indicator.
+1/6
+Child mortality
+Any child under age 18 has died in the five years preceding the survey. When a survey lacks information about the date of 
+child deaths, deaths that occurred at any time are taken into account.a
+1/6
+Education
+Years of 
+schooling
+No household member of “school entrance age + six years” or older has completed at least six years of schooling.b
+1/6
+School 
+attendance
+Any school-age childc is not attending school up to the age at which he or she would complete class 8.
+1/6
+Standard of 
+living
+Electricity
+The household has no electricity.d
+1/18
+Sanitation
+The household does not have access to improved sanitation (according to Sustainable Development Goal guidelines), or 
+it is improved but shared with other households. A household is considered to have access to improved sanitation if it has 
+some type of flush toilet or latrine or ventilated improved pit or composting toilet that is not shared. When a survey uses a 
+different definition of adequate sanitation, the survey report is followed.
+1/18
+Drinking water
+The household does not have access to an improved source of drinking water (according to Sustainable Development 
+Goal guidelines), or an improved source of drinking water is at least a 30-minute walk from home, roundtrip. A household 
+is considered to have access to an improved source of drinking water if the source is piped water, a public tap, a borehole 
+or pump, a protected well, a protected spring or rainwater. When a survey uses a different definition of improved source 
+of drinking water, the survey report is followed.
+1/18
+Housing
+At least one of the household’s three dwelling elements—floor, walls or roof—is made of inadequate materials—that is, the 
+floor is made of natural materials and/or the walls and/or the roof are made of natural or rudimentary materials. The floor 
+is made of natural materials such as mud, clay, earth, sand or dung; the dwelling has no roof or walls; the roof or walls are 
+constructed using natural materials such as cane, palm, trunks, sod, mud, dirt, grass, reeds, thatch, bamboo or sticks or 
+rudimentary materials such as carton, plastic or polythene sheeting, bamboo or stone with mud, loosely packed stones, 
+uncovered adobe, raw or reused wood, plywood, cardboard, unburnt brick, or canvas or tent.
+1/18
+Cooking fuel
+The household cooks with dung, wood, charcoal or coal.
+1/18
+Assets
+The household does not own a car or truck and does not own more than one of the following assets: radio, television, 
+telephone, computer, animal cart, bicycle, motorbike or refrigerator.e
+1/18
+a. Information about child deaths is typically reported by women ages 15–49. When information from an eligible woman was not available, information from a man was used 
+when the man reported no death in the household, and information was coded as missing when the man reported a death (because the date of the death was unknown).
+b. The cutoff was previously age 10, but this did not account for the fact that children do not normally complete six years of schooling by age 10. However, if a child starts 
+school at age 6 and has completed six years of schooling by age 10, this is counted as an achievement. If not, this is not counted as a deprivation.
+c. Official school entrance age is from UIS.Stat (http://data.uis.unesco.org).
+d. For the few countries that do not collect data on electricity because of 100 percent coverage, all households in the country as identified as nondeprived in electricity.
+e. Televisions include smart televisions and black and white televisions, telephones include cell phones, computers include tablets and laptops, and refrigerators include 
+freezers.
+12
+HUMAN DEVELOPMENT REPORT 2025
+
+
+==================== PAGE 13 ====================
+
+The MPI value is the product of two measures: the 
+incidence of multidimensional poverty and the inten­
+sity of poverty: 
+MPI = H . A
+The contribution of dimension d to multidimen­
+sional poverty can be expressed as 
+Contribd = 
+∑j∈d ∑
+q
+1 cij
+n
+ / MPI
+where d is health, education or standard of living. 
+The MPI can also be expressed as the weighted sum 
+of the censored headcount rates hj of each indicator j. 
+The censored headcount rate of indicator j refers to 
+the proportion of people who are multidimensionally 
+poor and deprived in this indicator.
+MPI = ∑
+10
+j=1 cj . hj
+where cj is the weight associated with indicator j (ei­
+ther  1/ 6 or  1/ 18), and the weights sum to 1.
+The variance of deprivation scores of multi­
+dimensionally poor people is used to measure ine­
+quality among those people:
+V = 
+q
+∑
+1 (si – A)2 / (q – 1) 
+All parameters defined above are estimated using 
+survey data and sampling weights according to the 
+rules of the sampling theory (Lohr 2010).
+Weighted deprivations:
+•	 Household 1: (1 . 16.67) + (1 . 5.56) = 22.2 percent.
+•	 Household 2: 72.2 percent.
+•	 Household 3: 38.9 percent.
+•	 Household 4: 50.0 percent.
+Based on this hypothetical population of four 
+households:
+Incidence of multidimensional poverty (H) =
+0 + 7 + 5 + 4
+4 + 7 + 5 + 4  = 0.80
+(80 percent of people are multidimensionally poor).
+Intensity of poverty (A) =
+(72.2 . 7) + (38.9 . 5) + (50.0 . 4)
+( 7 + 5 + 4 )
+ = 56.3 percent
+(the average multidimensionally poor person is de­
+prived in 56.3 percent of the weighted indicators).
+MPI = H . A = 0.8 . 0.563 = 0.450.
+Contribution of deprivations in:
+Health:
+contrib1 =  16.67 . 5 + 16.67 . (7 + 4)  / 0.450 = 29.6%
+4 + 7 + 5 + 4
+Education:
+contrib2 =  16.67 . (7 + 4) + 16.67 . 7  / 0.450 = 33.3%
+4 + 7 + 5 + 4
+Standard of living:
+contrib3 =  5.56 . (7 . 4 + 5 . 4 + 4 . 3)  / 0.450 = 37.1%.
+4 + 7 + 5 + 4
+Example using hypothetical data
+Indicator
+Indicator 
+weight
+Household
+1
+2
+3
+4
+Household size
+4
+7
+5
+4
+Health
+At least one member is 
+undernourished
+( 1/3) ÷ 2 = 16.7%
+0
+0
+1
+0
+One or more children have died
+(1/3) ÷ 2 = 16.7%
+1
+1
+0
+1
+Education
+No one has completed at least six 
+years of schooling
+(1/3) ÷ 2 = 16.7%
+0
+1
+0
+1
+At least one school-age child not 
+enrolled in school
+(1/3) ÷ 2 = 16.7%
+0
+1
+0
+0
+Standard of living
+No electricity
+(1/3) ÷ 6 = 5.6%
+0
+1
+1
+1
+No access to improved sanitation
+(1/3) ÷ 6 = 5.6%
+0
+0
+1
+0
+No access to an improved source of 
+drinking water
+(1/3) ÷ 6 = 5.6%
+0
+1
+1
+0
+House built with inadequate materials
+(1/3) ÷ 6 = 5.6%
+0
+0
+0
+0
+Household cooks with dung, wood, 
+charcoal or coal
+(1/3) ÷ 6 = 5.6%
+1
+1
+1
+1
+Household does not own a car or truck 
+and does not own more than one of 
+the following assets: radio, television, 
+telephone, computer, animal cart, 
+bicycle, motorbike or refrigerator.
+(1/3) ÷ 6 = 5.6%
+0
+1
+0
+1
+Results
+Individual deprivation score, c (sum 
+of each deprivation multiplied by its 
+weight) for each household member
+22.2% 72.2% 38.9% 50.0%
+Is the household multidimensionally 
+poor (c ≥ 1/3)?
+No
+Yes
+Yes
+Yes
+Note: 1 indicates deprivation in the indicator; 0 indicates nondeprivation.
+TECHNICAL NOTES 1–6
+13
+
+
+==================== PAGE 14 ====================
+
+Calculating the contribution of each dimension to 
+multi dimensional poverty provides information that 
+can be useful for revealing a country’s deprivation 
+structure and can help with policy targeting.
+Variance of deprivation scores among the poor 
+(V) = 
+(0.722 – 0.563)2 ∙ 7 + (0.389 – 0.563)2 ∙ 5 + (0.500 – 0.563)2 ∙ 4
+16 – 1
+= 0.023
+Censored headcount rates for each indicator
+People who are 
+multidimensionally 
+poor and deprived 
+in each indicator
+Proportion of 
+people who are 
+­multidimensionally 
+poor and deprived 
+in each indicator
+Proportion of 
+people who are 
+­multidimensionally 
+poor and deprived 
+in each indicator 
+multiplied by the 
+indicator weight
+Nutrition
+5
+0.250
+0.042
+Child mortality
+11
+0.550
+0.092
+Years of 
+schooling
+11
+0.550
+0.092
+School 
+attendance
+7
+0.350
+0.058
+Electricity
+16
+0.800
+0.044
+Sanitation
+5
+0.250
+0.014
+Drinking water
+12
+0.600
+0.033
+Housing
+0
+0.000
+0.000
+Cooking fuel
+16
+0.800
+0.044
+Assets
+11
+0.550
+0.031
+Sum
+ 
+ 
+0.450
+Technical note 6. Planetary pressures–adjusted Human 
+Development Index
+The Planetary pressures–adjusted Human Devel­
+opment Index (PHDI)  adjusts the Human Devel­
+opment Index (HDI) for planetary pressures in the 
+Anthropocene. The PHDI discounts the HDI for  pres­
+sures on the planet to reflect a concern for intergener­
+ational inequality, similar to the Inequality-adjusted 
+HDI adjustment, which is motivated by a concern for 
+intragenerational inequality. The PHDI is computed 
+as the product of the HDI and (1 – index of planetary 
+pressures), where (1 – index of planetary pressures) 
+can be seen as an adjustment factor.
+The PHDI is the level of human development 
+adjusted by carbon dioxide emissions per capita 
+(production ) and material footprint per capita to 
+account for the excessive human pressure on the 
+planet. It should be seen as an incentive for trans­
+formation. In an ideal scenario , with no  pressures 
+on the planet, the PHDI equals the HDI. Howev­
+er, as pressures increase, the PHDI falls below the 
+HDI. In this sense the PHDI measures the level of 
+human development when planetary pressures are 
+considered.
+Indicator definitions and data sources
+In addition to the data used to calculate the HDI, 
+the PHDI uses data on carbon dioxide emissions per 
+capita (production ) and material footprint per capita.
+•	 Carbon dioxide emissions per capita (production ): 
+carbon dioxide emissions produced as a conse­
+quence of human activities (use of coal, oil and gas 
+for combustion and industrial processes, gas flar­
+ing and cement manufacture), divided by midyear 
+population. Values are territorial emissions, mean­
+ing that emissions are attributed to the country in 
+which they physically occur. Data are from Global 
+Carbon Project (2024).
+•	 Material footprint per capita: material footprint 
+is the attribution of global material extraction to 
+domestic final demand of a country. Material foot­
+print is calculated as raw material equivalent of im­
+ports plus domestic extraction minus raw material 
+equivalents of exports. The total material footprint 
+is the sum of the material footprint for biomass, 
+fossil fuels, metal ores and nonmetal ores. Material 
+footprint per capita describes the average material 
+use for final demand. Data are from UNEP (2024).
+14
+HUMAN DEVELOPMENT REPORT 2025
+
+
+==================== PAGE 15 ====================
+
+Steps to calculate Planetary 
+pressures-adjusted Human 
+Development Index values
+There are three steps to calculating  PHDI values.
+Step 1. Calculating the carbon dioxide emissions 
+index and the material footprint index
+Carbon dioxide emissions per capita and material 
+footprint per capita are normalized in the same way 
+as the components of the HDI. Through a min-max 
+transformation each becomes an index with values 
+between 0 and 1 calculated as:
+Aj index = (maximumj – observed valuej) / 
+(maximumj – minimumj)
+where j = 1,2 refers to the two included planetary 
+pressure indicators. 
+Zero was set as minimum. The maximum corre­
+sponds to the maximum value observed historically 
+for all countries since 1990, in line with the similar ap­
+proaches in the literature, such as Biggeri and Mauro 
+(2018). For carbon dioxide emissions per capita the 
+maximum value is 76.61 tonnes, observed for Qatar in 
+1997. For material footprint per capita the maximum 
+value is 90.27, observed for Qatar in 2014. The ranking 
+of countries is sensitive to the selection of the maximum.
+For both carbon dioxide emissions per capita and 
+material footprint per capita, the higher the observed 
+value and the closer to the maximum, the higher the 
+pressures on the planet, implying a smaller value of 
+the index and a larger adjustment to the HDI.
+Step 2. Constructing the adjustment 
+for planetary pressures
+The adjustment factor for planetary pressures (A) is 
+the arithmetic average of the indices measuring car­
+bon dioxide emissions per capita and material foot­
+print per capita, which assumes perfect substitution 
+of these two indicators. Lower pressures on the planet 
+result in a larger A and smaller adjustment to the HDI.
+A = (Carbon dioxide emissions index + 
+ material footprint index) / 2
+In addition, the index of planetary pressures, P, is 
+defined as the complement of A: P = (1 – A).
+Step 3. Adjusting the Human Development 
+Index to account for planetary pressures
+The PHDI is the product of the HDI and the adjust­
+ment factor, A:
+PHDI = HDI . A,
+or, equivalently, PHDI = HDI . (1 – P).
+The difference between the HDI and the PHDI val­
+ues due to planetary pressures, expressed as a per­
+centage, is:
+Difference in HDI value = HDI – PHDI
+HDI
+ . 100 
+= P . 100
+Example: China (2023 PHDI)
+Indicator
+Value
+Human Development Index (HDI)
+0.797
+Carbon dioxide emissions per capita 
+(production), tonnes
+8.3
+Material footprint per capita, tonnes
+24.9
+Carbon dioxide emissions index
+(76.61 – 8.3) / 76.61 = 
+0.892
+Material footprint index
+(90.27 – 24.9) / 90.27 
+= 0.724
+Adjustment for planetary pressures 
+factor (A)
+(0.892 + 0.724) / 2 = 
+0.808
+Planetary pressures–adjusted HDI (PHDI)
+0.797 ∙ 0.808 = 0.644
+Difference in HDI value (%)
+[(0.797 – 0.644) / 0.797] ∙ 
+100 = 19.20
+Note: Values are rounded.
+Difference in Planetary 
+pressures–adjusted Human 
+Development Index rank and 
+Human Development Index rank 
+Difference in ranks on the PHDI and the HDI is cal­
+culated only for countries for which both a PHDI and 
+an HDI value are calculated. Due to data limitations, 
+PHDI values are calculated for a smaller set of coun­
+tries. To calculate the PHDI rank difference from the 
+HDI rank, HDI ranks are recalculated for the set of 
+countries for which a PHDI value is calculated.
+TECHNICAL NOTES 1–6
+15
+
+
+==================== PAGE 16 ====================
+
+References
+Alkire, S., and S. Jahan. 2018. “The New Global MPI 2018: Aligning with the 
+Sustainable Development Goals.” Human Development Research Paper. UNDP-
+HDRO, New York. http://hdr.undp.org/en/content/new-global-mpi-2018-aligning​
+-sustainable-development-goals.
+Alkire, S., Kanagaratnam, U., and Suppa, N. 2024. “A Methodological Note on the 
+Global Multidimensional Poverty Index (MPI) 2024 Changes over Time Results for 
+86 Countries.” OPHI MPI Methodological Note 60, Oxford Poverty and Human De­
+velopment Initiative, University of Oxford, UK. ©2018 University of Oxford
+Anand, S., and A. Sen. 2000. “The Income Component of the Human Development 
+Index.” Journal of Human Development and Capabilities (1)1: 83–106.
+Atkinson, A. 1970. “On the Measurement of Economic Inequality.” Journal of Eco­
+nomic Theory 2(3): 244–263.
+Barro, R.J., and J.-W. Lee. 2018. Dataset of Educational Attainment, June 2018 Revi­
+sion. www.barrolee.com. Accessed 4 October 2024.
+Biggeri, M., and Mauro, V. 2018. “Towards a More ‘Sustainable’ Human Development 
+Index: Integrating the Environment and Freedom.” Ecological Indicators 91: 220–231.
+CEDLAS (Center for Distributive, Labor and Social Studies) and World Bank. 
+2024. Socio-Economic Database for Latin America and the Caribbean (SEDLAC). 
+https://www.cedlas.econo.unlp.edu.ar/wp/en/estadisticas/sedlac/estadisticas/. Ac­
+cessed 30 December 2024.
+Eurostat. 2024. European Union Statistics on Income and Living Conditions. EU-
+SILC UDB 2023 – version of October 2024. Brussels. https://ec.europa.eu/eurostat​
+/web/microdata/european-union-statistics-on-income-and-living-conditions. Ac­
+cessed 22 January 2025.
+Foster, J., L. Lopez-Calva and M. Szekely. 2005. “Measuring the Distribution of Hu­
+man Development: Methodology and an Application in Mexico.” Journal of Human 
+Development and Capabilities 6(1): 5–25.
+Gaye, A., J. Klugman, M. Kovacevic, S. Twigg and E. Zambrano. 2010. “Measur­
+ing Key Disparities in Human Development: The Gender Inequality Index.” Human 
+Development Research Paper. UNDP-HDRO, New York http://hdr.undp.org/sites​
+/default/files/hdrp_2010_46.pdf.
+Global Carbon Project. 2024. Global Carbon Atlas. https://globalcarbonatlas.org​
+/emissions/carbon-emissions/. Accessed 7 January 2025.
+ICF Macro. Various years. Demographic and Health Surveys. http://dhsprogram​
+.com. Accessed 30 September 2024.
+ILO (International Labour Organization). 2024. ILOSTAT database. https://ilostat​
+.ilo.org/data/. Accessed 10 December 2024.
+IMF (International Monetary Fund). 2024. World Economic Outlook database. 
+Washington, DC. https://www.imf.org/en/Publications/WEO/weo-database/2024​
+/October. Accessed 5 December 2024.
+IPU (Inter‑Parliamentary Union). 2024. Parline database: Monthly ranking of wom­
+en in national parliaments. https://data.ipu.org/women-ranking. Accessed 4 Novem­
+ber 2024.
+LIS. 2024. Luxembourg Income Study Database. http://www.lisdatacenter.org/data​
+-access. Accessed 20 December 2024.
+Lohr, S. 2010. Sampling: Design and Analysis, 2nd ed. Boston, MA: Brooks/Cole. 
+Maddison, A. 2010. Historical Statistics of the World Economy, 1–2030 AD. Paris: 
+Organisation for Economic Co-operation and Development.
+Oeppen, J., and J.W. Vaupel. 2002. “Broken Limits to Life Expectancy.” Science 
+296: 1029–1031.
+OPHI (Oxford Poverty and Human Development Initiative) and UNDP (United 
+Nations Development Programme). 2024. Global Multidimensional Poverty Index 
+2024: Poverty amid Conflict. New York and Oxford, UK.
+Riley, J.C. 2005. Poverty and Life Expectancy. Cambridge, UK: Cambridge Univer­
+sity Press.
+Seth, S. 2009. “Inequality, Interactions, and Human Development.” Journal of Hu­
+man Development and Capabilities 10(3): 375–396.
+UNDESA (United Nations Department of Economic and Social Affairs). 2024. 
+World Population Prospects: The 2024 Revision. New York. https://population.un​
+.org/wpp/. Accessed 1 August, 2024.
+UNEP (United Nations Environment Programme). 2024. International Resource 
+Panel’s Global Material Flows Database. https://www.resourcepanel.org/global​
+-material-flows-database. Accessed 7 January 2025.
+UNESCO (United Nations Educational, Scientific and Cultural Organization) In­
+stitute for Statistics. 2024. UIS Developer Portal, Bulk Data Download Service. 
+https://apiportal.uis.unesco.org/bdds. Accessed 12 September 2024.
+UNICEF (United Nations Children’s Fund). Various years. Multiple Indicator Clus­
+ter Surveys. New York. http://mics.unicef.org/. Accessed 30 September 2024.
+United Nations Statistics Division. 2025. National Accounts Main Aggregates Da­
+tabase. http://unstats.un.org/unsd/snaama. Accessed 17 January 2025.
+UNU-WIDER (United Nations University World Institute for Development Eco­
+nomics Research). 2023. World Income Inequality Database Companion dataset. 
+Version 28 November 2023. https://www.wider.unu.edu/database/world-income​
+-inequality-database-wiid#WIIDcomp. Accessed 3 January 2025.
+WHO (World Health Organization), UNICEF (United Nations Children’s Fund), 
+UNFPA (United Nations Population Fund), World Bank Group and UNDESA/
+Population Division (United Nations De­partment of Economic and Social Af­
+fairs, Popula­tion Division). 2023. Trends in Maternal Mortality 2000 to 2020: Es­
+timates by WHO, UNICEF, UNFPA, World Bank Group and UNDESA/Population Di­
+vision. Geneva: World Health Organization. https://www.who.int/publications/i/item​
+/9789240068759. Accessed 4 November 2024.
+World Bank. 2024. World Development Indicators database. Washington, DC. 
+http://data.worldbank.org. Accessed 2 January 2025.
+16
+HUMAN DEVELOPMENT REPORT 2025
